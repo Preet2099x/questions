@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following statements correctly describes the microcomputer disk drive?",
+      "options": ["A disk drive is used to transfer data to and from disks.", "The two types of disk drives are hard disks and flexible disks.", "Hard disks are permanent storage devices.", "All of these"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "RAM chips",
+      "options": ["Store data indefinitely unless you delete it", "Allow the computer to store data electronically", "Are always measured in thousands of bytes", "All of these"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The CPU and memory are located on the",
+      "options": ["Keyboard", "Graphics board", "Sound board", "Motherboard"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which of the following manages computer resources?",
+      "options": ["BUS", "ALU", "I/O unit", "Control unit"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Speed of processor is measured in:",
+      "options": ["Hertz", "Pathom", "Byte", "Bit"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Intel Pentium CPU is a ______ based processor.",
+      "options": ["LISC", "MISC", "RISC", "CISC"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which one is the first high level programming language?",
+      "options": ["C", "C++", "COBOL", "FORTRAN"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which one is the first word processor application?",
+      "options": ["MS OFFICE", "Apple I work", "WordStar", "Sun StarOffice"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who developed Java programming language?",
+      "options": ["James Gosling", "Edmund Clarke", "James Foley", "Bjarne Stroustrup"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "1 TB equals to?",
+      "options": ["1028 MB", "1024 GB", "1028 KB", "1000 GB"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who developed Linus Operating System?",
+      "options": ["Peter James", "Steve Jobs", "Linus Torvalds", "Andy Rubin"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which one is the first search engine?",
+      "options": ["Google", "Archie", "WAIS", "Alta Vista"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How many bits are there in IPv6 address?",
+      "options": ["32", "64", "128", "256"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "First computer virus is known as?",
+      "options": ["Rabbit", "Creeper virus", "Trojan Horse", "SCA virus"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which protocol is used to receive e-mail?",
+      "options": ["SMTP", "POP3", "HTTP", "FTP"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following computer language is used for artificial intelligence?",
+      "options": ["PROLOG", "FORTRAN", "C", "COBOL"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "The preferred method of data transfer when link establishment takes a long time, and data size is little is:",
+      "options": ["Circuit switching", "Packet switching", "Time-division multiplexing", "None of the above"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the full form of OCR?",
+      "options": ["Optical Character Reader", "Optical Central Reader", "Optimized Character Reader", "Optical Character Response"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many layers are there in TCP/IP?",
+      "options": ["2", "4", "5", "7"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is an example of connectionless protocol?",
+      "options": ["TCP", "UDP", "Frame Relay", "SPX"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is a popular front-end framework for building user interfaces in JavaScript?",
+      "options": ["Django", "Angular", "Flask", "Node.js"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What application can one create even before the introduction of HTML5?",
+      "options": ["Forms", "Browser based games", "Web applications", "Mobile applications"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is DOM?",
+      "options": ["Application programming interface", "Hierarchy of objects in ASP.NET", "Convention for representing and interacting with objects in HTML documents", "None of the mentioned"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What does <td> stand for?",
+      "options": ["Table database", "Table data", "Table directory", "Table direct row"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which HTML tag is used to create an ordered list in a webpage?",
+      "options": ["<ol>", "<ul>", "<li>", "<ol> and <ul>"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of JavaScript in web development?",
+      "options": ["To define the structure and content of web pages", "To add interactivity and behavior to web pages", "To style and format web pages", "To manage server-side data and databases"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the JavaScript keyword used to define a function?",
+      "options": ["var", "function", "let", "const"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does MIME stand for?",
+      "options": ["Multipurpose Internet Mail Extra", "Multi Internet Mail End", "Multipurpose Internet Mail Email", "Multipurpose Internet Mail Extension"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which of the following attribute is used for merging two or more adjacent columns?",
+      "options": ["ROWSPAN", "CELLSPACING", "COLSPAN", "CELLPADDING"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Why were cookies designed?",
+      "options": ["for server-side programming", "For client-side programming", "both a and b", "None"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}
